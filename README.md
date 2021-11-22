@@ -21,6 +21,6 @@ The beta version of an Android app that allows users to store reminders. Program
 ## Notes
 App may require users to enable Internet connection in order to function. 
 
-Credit to group member <a href="https://github.com/yan-ye-0102" target=_blank>Yan</a> for laying out the code foundation for the adapters and RecyclerViews.
+Credit to group member <a href="https://github.com/yan-ye-0102" target="_blank">Yan</a> for laying out the code foundation for the adapters and RecyclerViews.
 
-Credit to group member <a href="https://github.com/sharadpatel11" target=_blank>Sharad</a> for setting up the Back4App database and implementing log-in functionality. 
+Credit to group member <a href="https://github.com/sharadpatel11" target="_blank">Sharad</a> for setting up the Back4App database and implementing log-in functionality. 
